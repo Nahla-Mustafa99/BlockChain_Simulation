@@ -14,14 +14,13 @@ The attack speed is a predetermined parameter.
 replaced with the attacker’s branch), and compare it to the legit blockchain speed.
 
 # Attack Simulation
-In this implementation the attacker has about 53% percent of the compute capacity, and the attack may fail in this case or success but in most cases attack will success.
+In this implementation the attacker has about 53% percent of the compute capacity, and the attack may fail in this case or success but in most cases the attack will success.
 
 # Requirements 
-- The script is written in python 3 so it need to ![1](https://user-images.githubusercontent.com/75391814/175976928-720ef9cf-ebb2-4648-8f72-a5dc6a268ee3.png)
-be installed.
+- The script is written in python 3 so it need to be installed.
 - libraries used : datetime, random, haslib ,json. 
 
-## output screen samples
+# output screen samples
 - Normal Scenario of blockchain (no attacks)
 ![Normal Scenario](https://user-images.githubusercontent.com/75391814/175977945-6bdfa246-f9a0-4955-a1a9-24e1400942ef.png)
 - Attack simulation (Failed attack)
